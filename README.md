@@ -29,7 +29,7 @@ This project demonstrates full backend development with clean API routes and Mon
 ---
 
 ## 📦 Project Structure
-
+```
 todo-backend/
 ├─ models/
 │ ├─ User.js
@@ -44,8 +44,7 @@ todo-backend/
 ├─ server.js
 ├─ package.json
 └─ README.md
-
-
+```
 ---
 
 ## ▶️ Running the Project
@@ -106,4 +105,3 @@ Send JWT token in the Authorization header for protected routes.
 This project is licensed under the MIT License.
 
 Happy Coding! 🎉
-
