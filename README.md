@@ -51,10 +51,10 @@ todo-backend/
 ## ▶️ Running the Project
 
 ### 1️⃣ Install dependencies
-``bash
+``` bash
 cd todo-backend
 npm install
-
+```
 ---
 
 ### 2️⃣ Create your .env file
