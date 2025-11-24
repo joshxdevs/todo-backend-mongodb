@@ -51,10 +51,11 @@ todo-backend/
 ## ▶️ Running the Project
 
 ### 1️⃣ Install dependencies
-
-```bash
+``bash
 cd todo-backend
 npm install
+
+---
 
 ### 2️⃣ Create your .env file
 MONGO_URL=your-mongodb-connection-string
@@ -62,6 +63,8 @@ JWT_SECRET=yourSecretKey
 PORT=3000
 
 Important: Do not commit .env to GitHub.
+
+---
 
 ### 3️⃣ Start Backend
 ```bash
